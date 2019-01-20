@@ -1,0 +1,5 @@
+@font-face {
+	font-family: '黑体';
+	src: url('simhei.woff') format('woff'),
+		url('simhei.ttf') format('truetype');
+}
