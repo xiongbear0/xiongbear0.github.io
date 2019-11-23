@@ -1,4 +1,4 @@
-https://g.wdata.xyz/s/ https://www.google.com/ 200
-https://g.wdata.xyz/search q=:q https://www.google.com/search?q=:q 200
-https://g.wdata.xyz/* https://www.google.com/:splat 200
-https://gosfu.wdata.xyz/* https://sims.sfu.ca/:splat 301
+https://g.wdata.xyz/s/ https://www.google.com/ 200!
+https://g.wdata.xyz/search q=:q https://www.google.com/search?q=:q 200!
+https://g.wdata.xyz/* https://www.google.com/:splat 200!
+https://gosfu.wdata.xyz/* https://sims.sfu.ca/:splat 301!
